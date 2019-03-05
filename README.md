@@ -2,7 +2,7 @@
 # 説明
 3年前に作ったモンスタージェネレータをLaravel+Vue+VueRouter+Vuexを使ってリニューアルする
 
-#各コマンド
+# 各コマンド
 フロント側ビルド
 
 ```console:console
