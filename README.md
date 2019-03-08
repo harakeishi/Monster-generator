@@ -8,3 +8,8 @@
 ```console:console
 $ npm run dev
 ```
+localserver起動
+
+```
+$php
+```
