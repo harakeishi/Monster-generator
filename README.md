@@ -8,8 +8,15 @@
 ```console:console
 $ npm run dev
 ```
+
+変更を監視してビルドする場合は
+
+```console:console
+$ npm run watch
+```
+
 localserver起動
 
-```
-$php
+```console:console
+$　php artisan server
 ```
