@@ -1,5 +1,5 @@
 <?php
-
+// アプリの起動時にルートを読み込むためのクラス
 namespace App\Providers;
 
 use Illuminate\Support\Facades\Route;
